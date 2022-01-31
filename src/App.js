@@ -1,4 +1,5 @@
-
+// A componet starts as a single node
+//A fragment is a single node within no markup element.
 
 function App() {
   return (
